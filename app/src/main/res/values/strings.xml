@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RevisonLab</string>
+    <string name="nameTag">Readers Name</string>
+    <string name="btn1">Book</string>
+    <string name="btn2">Paper ARTICLES</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
